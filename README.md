@@ -67,7 +67,5 @@ Azure Fundamentals certification is an opportunity to prove knowledge of cloud c
 
 Azure Fundamentals can be used to prepare for other Azure role-based or specialty certifications, but it is not a prerequisite for any of them.
 
-
-
-
+Good luck to you. Feel free to be share
 
